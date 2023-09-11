@@ -19,6 +19,7 @@ td, th {
     </style>
 </head>
 <body>
+  
     <table><tr><th>X</th><th>Текст</th></tr><tr class="temp"><td><?php $x = rand(350, 420)/10; echo $x; ?></td><td><?php if($x < 37.7) { echo "Здоров!"; } elseif ($x > 37.7) { echo "Болен!"; } else { echo "Что-то не здоровится..."; } ?></td></tr></table>
 </body>
 </html>
