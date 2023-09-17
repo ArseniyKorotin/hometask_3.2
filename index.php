@@ -2,8 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        
+        <title>Page1</title>
     </head>
     <body>
     <form action="table.php" method="post">
